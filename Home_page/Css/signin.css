@@ -1,0 +1,47 @@
+
+/* Sigin */
+
+#conten{
+    background-color: #fff;
+    padding: 40px;
+}
+.sign-in{
+    width: 600px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+.sign-in:focus-visible{
+    border-color: rgb(29, 149, 179);
+    border-width: 2px;
+}
+
+.sign-in-til{
+    margin-top: 20px;
+}
+#conten p{
+    margin-top: 15px;
+}
+#conten a{
+    color:aqua;
+    
+}
+.sub-reset{
+    width: 120px;
+    height: 40px;
+    margin-top: 30px;
+}
+#sub{
+    color: #fff;
+    font-weight: bolder;
+    background: aqua;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+    border-width: 0px;
+    
+}
+#sub:hover{
+    background-color: darkblue;
+    transform: scale(0.96);
+}
+

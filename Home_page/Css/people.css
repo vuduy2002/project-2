@@ -1,0 +1,36 @@
+
+
+/*conten people*/
+#contenPeople{
+    background-color: #fff;
+    width: 1500px;
+    height: 1480px;
+}  
+#people{
+    width: 1400px;
+    margin: auto;
+    padding-top: 20px;
+    
+}
+.person{
+    float:left;
+    margin: 18px;
+    box-shadow: 0px 0px  7px  rgb(182, 182, 174);
+    box-sizing: border-box;
+}
+#pagePeople{
+    width: 300px;
+    margin: auto;
+}
+#pagePeople a{
+   color: black;
+   margin: 0 3px
+}   
+
+.pstext{
+    color: black;
+}
+
+.pstext p{
+    font-weight: lighter;
+}

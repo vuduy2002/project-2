@@ -1,0 +1,87 @@
+.signUp-wrapper{
+    background-color: #fff;
+    padding: 20px 0;
+}
+
+.signUp{
+    display: flex;
+}
+
+.signUp-left{
+    flex: 1;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+.signUp-left-title{
+    padding: 20px;
+    background-color: #01B4E4;
+    color: #fff;
+    font-size: larger;
+    font-weight: 700;
+    
+}
+.signUp-left-text{
+    padding: 8px 0;
+}
+
+svg{
+    max-width: 19.2px;
+    padding-top: 0px;
+    margin: 0 0 0 -20px;
+}
+
+ul li{
+    padding-left:40px ;
+}
+
+ul li:hover{
+    background-color: lightgray;
+}
+
+.signUp-center{
+    flex: 4;
+    padding-left: 30px;
+}
+.input{
+    margin: 16px 0 0 0;
+}
+.input input{
+    padding: 6px 12px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 1030px;
+    height: 37.6px;
+}
+
+.input input:focus-visible{
+    border: 1px solid  #01B4E4;
+}
+
+.foot-text{
+    margin-top: 30px;
+}
+
+.siUp-sub .siUp-reset{
+    margin-top: 30px;
+}
+
+.siUp-sub{
+    padding: 6px 12.9px;
+    background-color:  #01B4E4;
+    border-radius: 5px;
+    border: 0px;
+    color: #fff;
+    font-weight: bolder; 
+}
+
+.siUp-sub:hover{
+    background-color: black;
+    color: #fff;
+}
+
+.siUp-reset{
+    border: 0px;
+    background-color: #fff;
+    color: #01B4E4;
+}

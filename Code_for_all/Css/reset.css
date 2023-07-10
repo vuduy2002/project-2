@@ -31,3 +31,6 @@ body{
     margin: 0 auto;
 }
 
+.signUp-left-text ul li{
+    display: flex;
+}
